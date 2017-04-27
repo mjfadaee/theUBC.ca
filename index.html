@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>theUBC Updater</title>
+    <script type="text/javascript" src="updater.js"></script>
+</head>
+<body>
+Hi!<br>
+
+<!--
+  Below we include the Login Button social plugin. This button uses
+  the JavaScript SDK to present a graphical Login button that triggers
+  the FB.login() function when clicked.
+-->
+
+<div class="fb-login-button" data-max-rows="1" data-size="medium" data-show-faces="false" data-auto-logout-link="true"
+     data-scope="email,user_birthday,user_events,rsvp_event,user_likes">
+</div>
+
+<div id="status"></div>
+
+<button onclick="RSVPtoAllButton();">RSVP to All Now!</button>
+<div id="done"></div>
+
+<button onclick="printAllEvents();">download All Events!</button>
+<a id="downloadAnchorElem" style="display:none"></a>
+
+
+</body>
+</html>
