@@ -1,4 +1,4 @@
-# theUBC.com-Updater
+# theUBC.com
 
 *An All-in-one event hub for everything happening at UBC. Designed a visually appealing and easy-to-use website that is independent and not-for-profit. The content to automatically collect data from over 450 Facebook pages and groups with relations to UBC. A brief annual statistical analysis of this data was published on the social media associated with this website.*
 
