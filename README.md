@@ -9,13 +9,18 @@ This updater, goes through all the desired event data from Facebook Graph API an
 Note: I have to confess that this is not the best way to do this by any measure! I feel like having a WordPress front-end forced me to do not very pretty stuff to automate the backend. In retrospect, if I start over, I would write a more integrated stack from the start!
 
 
-#### Screenshots
+
+
+# Screenshots
 ![Alt text](TheUBC.ca_Home_Page.jpg "Home Page")
 ![Alt text](TheUBC.ca_Home_Page_2.jpg "Home Page 2")
 ![Alt text](TheUBC.ca_Calendar.jpg "Calendar")
 ![Alt text](TheUBC.ca_Event_Details.jpg "Event Details")
 
-#### Data analysis
+
+
+
+# Data analysis
 ![Alt text](Analysis/1.jpg)
 ![Alt text](Analysis/2.jpg)
 ![Alt text](Analysis/3.jpg)
